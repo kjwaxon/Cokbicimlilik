@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppÇokbiçimlilik\bin\Debug\ConsoleAppÇokbiçimlilik.exe.config
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppÇokbiçimlilik\bin\Debug\ConsoleAppÇokbiçimlilik.exe
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppÇokbiçimlilik\bin\Debug\ConsoleAppÇokbiçimlilik.pdb
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppÇokbiçimlilik\obj\Debug\ConsoleAppÇokbiçimlilik.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppÇokbiçimlilik\obj\Debug\ConsoleAppÇokbiçimlilik.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppÇokbiçimlilik\obj\Debug\ConsoleAppÇokbiçimlilik.exe
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppÇokbiçimlilik\obj\Debug\ConsoleAppÇokbiçimlilik.pdb
